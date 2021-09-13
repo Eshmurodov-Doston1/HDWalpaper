@@ -1,0 +1,98 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+
+        <item name="backgroundApp">@color/backgroundApp4</item>
+        <item name="dialogColor">@color/dialogColor4</item>
+        <item name="settingsCardColor">@color/settingsCardColor4</item>
+        <item name="textColorApp">@color/textColor4</item>
+        <item name="tabIndicatorColor1">@color/tabIndicatorColor4</item>
+        <item name="bottomNavigationColor">@color/bottomNavigationIcon4</item>
+        <item name="bottomNavigationIcon">@color/bottomNavigationIcon3</item>
+        <item name="tabLayoutColor">@color/tabLayout3</item>
+        <item name="bottomNavigation">@color/bottomNav3</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.One" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="bottomNavigation">@color/bottomNav</item>
+        <item name="backgroundApp">@color/backgroundApp1</item>
+        <item name="textColorApp">@color/textColor1</item>
+        <item name="dialogColor">@color/dialogColor1</item>
+        <item name="settingsCardColor">@color/settingsCardColor1</item>
+        <item name="tabIndicatorColor1">@color/tabIndicatorColor1</item>
+        <item name="bottomNavigationColor">@color/bottomNavigationIcon</item>
+        <item name="bottomNavigationIcon">@color/bottomNavigationIcon</item>
+        <item name="tabLayoutColor">@color/tabLayout</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AppTheme.Two" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="textColorApp">@color/textColor2</item>
+        <item name="dialogColor">@color/dialogColor2</item>
+        <item name="settingsCardColor">@color/settingsCardColor2</item>
+        <item name="backgroundApp">@color/backgroundApp2</item>
+        <item name="tabIndicatorColor1">@color/tabIndicatorColor2</item>
+        <item name="bottomNavigationIcon">@color/bottomNavigationIcon1</item>
+        <item name="bottomNavigationColor">@color/bottomNavigationIcon1</item>
+        <item name="tabLayoutColor">@color/tabLayout1</item>
+        <item name="bottomNavigation">@color/bottomNav1</item>
+        <item name="colorPrimaryDark">@color/bottomNav1</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="AppTheme.Three" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="textColorApp">@color/textColor3</item>
+        <item name="dialogColor">@color/dialogColor3</item>
+        <item name="settingsCardColor">@color/settingsCardColor3</item>
+        <item name="backgroundApp">@color/backgroundApp3</item>
+        <item name="tabIndicatorColor1">@color/tabIndicatorColor3</item>
+        <item name="bottomNavigationColor">@color/bottomNavigationIcon2</item>
+        <item name="bottomNavigationIcon">@color/bottomNavigationIcon2</item>
+        <item name="tabLayoutColor">@color/tabLayout2</item>
+        <item name="bottomNavigation">@color/bottomNav2</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AppTheme.Four" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/myColor</item>
+        <item name="backgroundApp">@color/backgroundApp4</item>
+        <item name="dialogColor">@color/dialogColor4</item>
+        <item name="settingsCardColor">@color/settingsCardColor4</item>
+        <item name="textColorApp">@color/textColor4</item>
+        <item name="tabIndicatorColor1">@color/tabIndicatorColor4</item>
+        <item name="bottomNavigationColor">@color/bottomNavigationIcon4</item>
+        <item name="bottomNavigationIcon">@color/bottomNavigationIcon3</item>
+        <item name="tabLayoutColor">@color/tabLayout3</item>
+        <item name="bottomNavigation">@color/bottomNav3</item>
+        <item name="colorPrimaryDark">@color/myColor</item>
+        <item name="colorAccent">@color/myColor</item>
+    </style>
+
+
+    <style name="BottomSheetDialogThem" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+</resources>

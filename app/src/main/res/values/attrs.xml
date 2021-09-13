@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tabLayoutColor" format="reference"/>
+    <attr name="bottomNavigation" format="reference"/>
+    <attr name="bottomNavigationIcon" format="reference"/>
+    <attr name="bottomNavigationColor" format="reference"/>
+    <attr name="tabIndicatorColor1" format="reference"/>
+    <attr name="backgroundApp" format="reference"/>
+    <attr name="textColorApp" format="reference"/>
+    <attr name="settingsCardColor" format="reference"/>
+    <attr name="dialogColor" format="reference"/>
+    <attr name="toolbarPopupTheme" format="reference" />
+    <attr name="toolbarItemTint" format="reference|color" />
+</resources>

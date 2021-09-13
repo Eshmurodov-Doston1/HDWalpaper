@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bottomNav">#154C79</color>
+    <color name="bottomNav1">#4C5BAF</color>
+    <color name="bottomNav2">#F85B915E</color>
+    <color name="bottomNav3">#E8E3E3</color>
+
+    <color name="tabLayout">#154C79</color>
+    <color name="tabLayout1">#4C5BAF</color>
+    <color name="tabLayout2">#F85B915E</color>
+    <color name="tabLayout3">#E8E3E3</color>
+
+    <color name="bottomNavigationIcon">#FFFFFF</color>
+    <color name="bottomNavigationIcon1">#FFFFFF</color>
+    <color name="bottomNavigationIcon2">#FFFFFF</color>
+    <color name="bottomNavigationIcon3">#858181</color>
+    <color name="bottomNavigationIcon4">#087E73</color>
+
+    <color name="tabIndicatorColor1">#FFFFFF</color>
+    <color name="tabIndicatorColor2">#FFFFFF</color>
+    <color name="tabIndicatorColor3">#FFFFFF</color>
+    <color name="tabIndicatorColor4">#087E73</color>
+
+    <color name="backgroundApp1">#154C79</color>
+    <color name="backgroundApp2">#4C5BAF</color>
+    <color name="backgroundApp3">#F85B915E</color>
+    <color name="backgroundApp4">#E8E3E3</color>
+
+    <color name="textColor1">#FFFFFF</color>
+    <color name="textColor2">#FFFFFF</color>
+    <color name="textColor3">#FFFFFF</color>
+    <color name="textColor4">#000000</color>
+
+
+    <color name="settingsCardColor1">#F50E3D63</color>
+    <color name="settingsCardColor2">#324095</color>
+    <color name="settingsCardColor3">#F83F7142</color>
+    <color name="settingsCardColor4">#F1EEEE</color>
+
+
+    <color name="dialogColor1">#F50E3D63</color>
+    <color name="dialogColor2">#324095</color>
+    <color name="dialogColor3">#F83F7142</color>
+    <color name="dialogColor4">#F1EEEE</color>
+
+
+    <color name="myColor">#324095</color>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HD Walpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sozlamalar">Настройки</string>
+    <string name="temalar">Темы</string>
+    <string name="dastur_tili">Язык</string>
+    <string name="o_zbek_tili">Узбекский язык</string>
+    <string name="ulashish">Делиться</string>
+    <string name="dastur_haqida">О программе</string>
+    <string name="info">Это приложение подготовлено в виде тестовой\nРазработчик:Достонбек Эшмуродов\nТелефон:+998994206278\nEmail: dostonbek2708@gmail.com</string>
+    <string name="orqaga">Назад</string>
+    <string name="tilni_tanlang">Выберите язык</string>
+    <string name="u_zbek_tili">Узбекский язык</string>
+    <string name="ru">Русский язык</string>
+    <string name="english">English</string>
+    <string name="ok">Ok</string>
+    <string name="photos">Фотографии</string>
+    <string name="favorites">Лайки</string>
+    <string name="settings">Настройки</string>
+    <string name="news">Новости</string>
+    <string name="car">Автомобиль</string>
+    <string name="man">Mужчина</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="ocean">Океан</string>
+    <string name="animals">Животные</string>
+    <string name="women">Женщины</string>
+    <string name="love">Любовь</string>
+    <string name="galaxy">Галактика</string>
+    <string name="Macro">Макрос</string>
+    <string name="aircraft">Самолет</string>
+    <string name="yoqtirganlar_mavjud_emas">Избранное недоступно</string>
+    <string name="noInternet">Без интернета</string>
+    <string name="connectInt">Проверьте подключение к Интернету и попробуйте еще раз.</string>
+    <string name="on">Пожалуйста, включи</string>
+    <string name="data">Мобильные данные</string>
+    <string name="data1">Вы включили режим полета.</string>
+    <string name="off">Пожалуйста, выключи</string>
+    <string name="airPlan">Режим полета</string>
+    <string name="a">Подождите пожалуйста</string>
+
+</resources>

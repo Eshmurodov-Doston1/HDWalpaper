@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HD Walpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <string name="dastur_tili">Dastur tili</string>
+    <string name="o_zbek_tili">O`zbek Tili</string>
+    <string name="ulashish">Ulashish</string>
+    <string name="dastur_haqida">Dastur haqida</string>
+    <string name="info">Bu ilova test ko\'rinishida tayyorlandi\nDasturchi: Dostonbek Eshmurodov\nTelefon:+998994206278\nEmail:dostonbek2708@gmail.com</string>
+    <string name="temalar">Temalar</string>
+    <string name="orqaga">Orqaga</string>
+    <string name="tilni_tanlang">Tilni tanlang</string>
+    <string name="u_zbek_tili">O\'zbek tili</string>
+    <string name="ru">Русский язык</string>
+    <string name="english">English</string>
+    <string name="ok">Ok</string>
+    <string name="photos">Rasmlar</string>
+    <string name="favorites">Yoqtirganlar</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="news">Yangiliklar</string>
+    <string name="car">Mashinalar</string>
+    <string name="man">Erkak</string>
+    <string name="basketball">Basketbol</string>
+    <string name="ocean">Ocean</string>
+    <string name="animals">Xayvonlar</string>
+    <string name="women">Ayol</string>
+    <string name="love">Muxabbat</string>
+    <string name="galaxy">Gallaktika</string>
+    <string name="macro">Ibratli</string>
+    <string name="aircraft">Samalyotlar</string>
+    <string name="yoqtirganlar_mavjud_emas">Yoqtirganlar Mavjud emas</string>
+    <string name="noInternet">Internet Mavjud emas</string>
+    <string name="connectInt">Internetga ulanishni tekshiring va qaytadan urining.</string>
+    <string name="on">Iltimos, yoqing</string>
+    <string name="data">Mobil ma\'lumotlar</string>
+    <string name="data1">Siz samolyot rejimini yoqdingiz.</string>
+    <string name="off">Iltimos, o\'chiring</string>
+    <string name="airPlan">Samolyot rejimi</string>
+    <string name="a">Iltimos kuting</string>
+</resources>

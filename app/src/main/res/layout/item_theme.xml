@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_2sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <at.markushi.ui.CircleButton
+        android:id="@+id/color"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="@dimen/_60sdp"
+        android:layout_height="@dimen/_60sdp"
+        app:cb_color="#99CC00"
+        app:cb_pressedRingWidth="@dimen/_6sdp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
